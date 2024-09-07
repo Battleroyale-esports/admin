@@ -1,0 +1,9 @@
+.content{
+  border: 2px solid var(--bg-1);
+  height: calc( 100dvh - 80px );
+  width: calc( 100dvw - 320px);
+  border-radius: 10px;
+  overflow: auto;
+  margin-left: 10px;
+  margin-top: 10px;
+}

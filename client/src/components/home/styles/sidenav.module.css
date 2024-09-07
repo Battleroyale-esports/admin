@@ -1,0 +1,8 @@
+.sideNav{
+  width: 270px;
+  /* background: var(--bg-9); */
+  height: calc(100dvh - 80px);
+  border-radius: 10px;
+  border: 2px solid var(--bg-1);
+  margin-top: 10px;
+}

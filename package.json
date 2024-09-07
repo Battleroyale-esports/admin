@@ -1,0 +1,11 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "Battleroyale Esports",
+  "main": "app and frontend",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dheeraj",
+  "license": "ISC"
+}
